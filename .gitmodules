@@ -1,0 +1,12 @@
+[submodule "documents"]
+	path = documents
+	url = https://github.com/BrickDatabase/documents.git
+[submodule "service-layer"]
+	path = service-layer
+	url = https://github.com/BrickDatabase/service-layer.git
+[submodule "application-layer"]
+	path = application-layer
+	url = https://github.com/BrickDatabase/application-layer.git
+[submodule "presentation-layer"]
+	path = presentation-layer
+	url = https://github.com/BrickDatabase/presentation-layer.git
